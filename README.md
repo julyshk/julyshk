@@ -54,7 +54,7 @@ I’m QA engineer
  </div>
 
 ## Дипломный проект
-Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>&nbsp;
-Включает в себя тестирование UI, API и мобильного приложения <a target="_blank" href="https://drom.ru">Drom.ru</a>&nbsp;
+Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a><br>
+Включает в себя тестирование UI, API и мобильного приложения <a target="_blank" href="https://drom.ru">Drom.ru</a><br>
 <a target="_blank" href="https://github.com/julyshk/drom.ru">Тестовый проект</a></br></br>
 
